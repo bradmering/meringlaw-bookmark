@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Bookmark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bookmark_jar</output-path>
+    <root id="archive" name="Bookmark.jar">
+      <element id="module-output" name="Bookmark" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/pdfbox-app-2.0.3.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/pdfbox-app-2.0.3.jar" />
+    </root>
+  </artifact>
+</component>
